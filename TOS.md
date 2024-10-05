@@ -12,11 +12,11 @@ Haruko allows you to collect and decorate "kyaras" (characters) and interact wit
 
 Haruko collects the following information:
 
-- Discord User ID and Server ID: To keep track of user interactions and manage user inventory.
+- Discord User ID, User Name, Avatar, and Server ID, as well as other relevant profile information: To keep track of user interactions, manage user inventory, and enhance user experience.
 
 - Server Settings: To store server-specific settings like custom prefixes or designated channels.
 
-We use this information solely to enhance the user experience and provide the intended functionalities of Haruko. We do not share your data with third parties. We retain user data for as long as necessary to provide our service.
+We use this information solely to provide, personalize, and enhance Haruko's services and ensure proper functionality. We do not share your data with third parties, except when required by law (e.g., complying with legal investigations or protecting our legal rights). We retain user data for as long as you use Haruko. If you stop using Haruko, your data will be retained for up to 30 days before being deleted from our systems.
 
 ## 4. User Conduct
 
@@ -24,7 +24,7 @@ By using Haruko, you agree not to:
 
 - Spam commands or flood the bot with requests.
 
-- Use offensive or inappropriate content when interacting with the bot.
+- Use offensive, racist, religiously insensitive, or inappropriate content when interacting with the bot.
 
 - Engage in fraudulent activities, such as creating multiple accounts to gain unfair advantages (e.g., cloning accounts to trade items).
 

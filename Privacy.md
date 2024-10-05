@@ -5,7 +5,7 @@ At Haruko, we respect your privacy and are committed to protecting your personal
 ## 2. Information We Collect
 When you interact with Haruko, we collect the following data:
 
-- Discord User ID and Server ID: Used to track your interactions with the bot and to maintain your virtual inventory and preferences.
+- Discord User ID, User Name, Avatar, and Server ID, as well as other relevant profile information: To keep track of user interactions, manage user inventory, and enhance user experience.
 
 - Server Settings: To store server-specific settings like custom prefixes, designated channels, and other preferences to provide personalized experiences.
 
