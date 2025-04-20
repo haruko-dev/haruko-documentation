@@ -3,21 +3,21 @@
 At Haruko, we respect your privacy and are committed to protecting your personal data. This Privacy Policy outlines the information we collect, how it is used, and your rights regarding your data. By using Haruko on Discord, you agree to the terms outlined in this Privacy Policy. Please read this document carefully.
 
 ## 2. Information We Collect
-When you interact with Haruko, we collect the following data:
+Haruko collects only the following information necessary for its core functionality:
+- User ID: To uniquely identify users and track their data across servers.
+- Username and Avatar: Used solely to display a better user experience within the bot.
+- Guild ID: To identify which server Haruko is operating in and to store server-specific settings.
 
-- Discord User ID, User Name, Avatar, and Server ID, as well as other relevant profile information: To keep track of user interactions, manage user inventory, and enhance user experience.
-
-- Server Settings: To store server-specific settings like custom prefixes, designated channels, and other preferences to provide personalized experiences.
-
-We do not collect any personally identifiable information beyond what is necessary for Haruko to function properly on Discord.
 
 ## 3. How We Use Your Data
-The data we collect is used solely to provide and enhance Haruko’s services. Specifically, your data is used for:
+The data we store — including User ID, Username, Avatar, and Guild ID — is used to:
+- Identify users across servers.
+- Manage inventories, in-game items, and progress.
+- Apply and maintain server-specific settings for a consistent and personalized experience.
 
-- User and Server Management: Managing your interactions with Haruko, including inventory tracking, game participation, and maintaining server-specific configurations.
-- Improving User Experience: Ensuring Haruko operates efficiently within your server, applying your custom settings, and enhancing your gameplay experience.
-
-We do not sell, share, or distribute your data to third parties for marketing or advertising purposes.
+Haruko does not store any message content.
+However, messages are processed in real time to:
+- Analyze for abnormal or potentially harmful behavior as part of our automated defense system. This analysis is real-time only and no message content is retained after processing.
 
 ## 4. Data Storage and Security
 We take the security of your data seriously and implement industry-standard measures to protect it. Your data is stored securely and only accessible by authorized personnel required to operate and maintain the bot.
